@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #d44fb3;
+    background: -webkit-linear-gradient(to left, #bb9db0, #1f181d);
+    background: linear-gradient(to left, #d5abc6, #852969);
+}
+    
+ 
+h1 {
+    background: #99506680;
+    color: rgb(78, 77, 45);
+    margin: 0;
+    padding: 10px 100px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: normal;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  .input-group-addon{
+      background-color: rgba(123, 58, 146, 0.314);
+  }
+ .container{
+    padding: 0px 30px;
+ }
+ h5{
+     color:rgba(84, 9, 60, 0.924);
+     border: 2px solid rgba(174, 42, 64, 0.399);
+     background-color:rgba(236, 116, 240, 0.074);
+     
+ }
